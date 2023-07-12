@@ -656,7 +656,7 @@ export function Settings() {
                   type="text"
                   placeholder={Locale.Settings.Token.Placeholder}
                   onChange={(e) => {
-                    accessStore.updateToken(e.currentTarget.value);
+                          accessStore.updateToken(e.currentTarget.value);
                   }}
                 />
               </ListItem>
