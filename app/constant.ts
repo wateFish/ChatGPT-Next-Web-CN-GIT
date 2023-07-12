@@ -1,6 +1,6 @@
-export const OWNER = "Yidadaa";
-// https://github.com/Yidadaa/ChatGPT-Next-Web
-export const REPO = "XUN YUN GPT";
+export const OWNER = "wateFish";
+//https://github.com/wateFish/ChatGPT-Next-Web-CN-GIT
+export const REPO = "ChatGPT-Next-Web-CN-GIT";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
