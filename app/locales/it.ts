@@ -128,7 +128,7 @@ const it: PartialLocaleType = {
       Title: "API Key",
       SubTitle:
         "Utilizzare la chiave per ignorare il limite del codice di accesso",
-      Placeholder: "OpenAI API Key",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Bilancio Account",

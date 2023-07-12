@@ -127,7 +127,7 @@ const es: PartialLocaleType = {
     Token: {
       Title: "Clave de API",
       SubTitle: "Utiliza tu clave para ignorar el límite de código de acceso",
-      Placeholder: "Clave de la API de OpenAI",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Saldo de la cuenta",

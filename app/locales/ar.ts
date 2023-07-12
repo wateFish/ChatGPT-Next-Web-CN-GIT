@@ -169,7 +169,7 @@ ${builtin} مدمجة، ${custom} تم تعريفها من قبل المستخد
     Token: {
       Title: "مفتاح API",
       SubTitle: "استخدم مفتاحك لتجاوز حد رمز الوصول",
-      Placeholder: "مفتاح OpenAI API",
+      Placeholder: "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",
     },
     Usage: {
       Title: "رصيد الحساب",

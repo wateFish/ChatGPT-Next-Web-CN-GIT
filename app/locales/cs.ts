@@ -127,7 +127,7 @@ const cs: PartialLocaleType = {
     Token: {
       Title: "API klíč",
       SubTitle: "Použitím klíče ignorujete omezení přístupového kódu",
-      Placeholder: "Klíč API OpenAI",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Stav účtu",

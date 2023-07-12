@@ -128,7 +128,7 @@ const ru: PartialLocaleType = {
     Token: {
       Title: "API ключ",
       SubTitle: "Используйте свой ключ, чтобы игнорировать лимит доступа",
-      Placeholder: "API ключ OpenAI",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Баланс аккаунта",

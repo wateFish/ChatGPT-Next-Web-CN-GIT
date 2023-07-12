@@ -126,7 +126,7 @@ const ko: PartialLocaleType = {
     Token: {
       Title: "API 키",
       SubTitle: "액세스 코드 제한을 무시하기 위해 키 사용",
-      Placeholder: "OpenAI API 키",
+      Placeholder: "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",
     },
     Usage: {
       Title: "계정 잔액",

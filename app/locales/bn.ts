@@ -201,7 +201,7 @@ const bn: PartialLocaleType = {
     Token: {
       Title: "অ্যাপি কী",
       SubTitle: "অ্যাক্সেস কোড সীমা উপেক্ষা করতে আপনার কীটি ব্যবহার করুন",
-      Placeholder: "OpenAI API কী",
+      Placeholder: "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",
     },
     Usage: {
       Title: "একাউন্ট ব্যালেন্স",

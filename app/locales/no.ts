@@ -109,7 +109,7 @@ const no: PartialLocaleType = {
       Title: "API Key",
       SubTitle:
         "Bruk din egen API-nøkkel for å ignorere tilgangskoden begrensning",
-      Placeholder: "OpenAI API-nøkkel",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Saldo for konto",

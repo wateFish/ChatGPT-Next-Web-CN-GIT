@@ -127,7 +127,7 @@ const tr: PartialLocaleType = {
     Token: {
       Title: "API Anahtarı",
       SubTitle: "Erişim kodu sınırını yoksaymak için anahtarınızı kullanın",
-      Placeholder: "OpenAI API Anahtarı",
+      Placeholder: "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",
     },
     Usage: {
       Title: "Hesap Bakiyesi",
