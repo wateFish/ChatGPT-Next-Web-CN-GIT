@@ -5,7 +5,7 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "XUN YUN GPT",
+  title: "XAUN YUN GPT",
   description: "Your personal ChatGPT Chat Bot.",
   viewport: {
     width: "device-width",
@@ -17,7 +17,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#000000" },
   ],
   appleWebApp: {
-    title: "XUN YUN GPT",
+    title: "XAUN YUN GPT",
     statusBarStyle: "default",
   },
 };
